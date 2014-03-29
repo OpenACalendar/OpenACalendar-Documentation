@@ -1,7 +1,7 @@
-## The system administrator web UI
+# The system administrator web UI
 
 
-# Accessing in Single Site Mode
+## Accessing in Single Site Mode
 
 Note some calendar functions are accessed by going to "/admin". Here you can 
 set other users up to be a calendar admin. This is different from being a 
