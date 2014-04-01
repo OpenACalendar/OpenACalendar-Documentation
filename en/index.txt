@@ -1,0 +1,5 @@
+systemadministrators For User with access to the System Administrator Web UI
+serveradministrators For Server Administraters installing and updating the app
+contributors Writing your own extensions and conbtributing to core or documentation
+misc Misc
+
