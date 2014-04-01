@@ -3,7 +3,7 @@
 
 ## Installation
 
-This extension is included with the core software only needs to be set up.
+This extension is included with the core software and only needs to be set up.
 
 ## Setting up
 
