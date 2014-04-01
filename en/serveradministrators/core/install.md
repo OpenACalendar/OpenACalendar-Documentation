@@ -14,8 +14,8 @@ to get it working on Windows servers.)
 
 ## Install
 
-(If you aren't sure if you want Single Site or Multi Site mode, read up on them 
-first and choose).
+(If you aren't sure if you want [Single Site or Multi Site mode, read up on them 
+first](/en/systemadministrators/core/singlesiteormultisite.md) and choose).
 
 See seperate instructions for Single Site or Multi Site.
 
