@@ -1,0 +1,6 @@
+install
+install.singlesite
+install.multisite
+cron
+upgrading
+extensions
