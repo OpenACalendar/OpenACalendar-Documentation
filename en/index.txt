@@ -1,4 +1,4 @@
 systemadministrators \ System Administrators \ For User with access to the System Administrator Web UI
-serveradministrators \ Server Administrators \ For Server Administraters installing and updating the app
-contributors \ Contributors \ Writing your own extensions and conbtributing to core or documentation
+serveradministrators \ Server Administrators \ For Server Administrators installing and updating the app
+contributors \ Contributors \ Writing your own extensions and contributing to core or documentation
 
