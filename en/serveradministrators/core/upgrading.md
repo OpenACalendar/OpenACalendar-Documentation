@@ -11,8 +11,8 @@ Run the PHP script "php core/cli/upgradeDatabase.php".
 Run the PHP script "php core/cli/loadStaticData.php".
 
 On servers not in Debug mode, delete the existing cached templates. These are 
-	found in "cache/templates.cli" and "cache/templates.web". (It doesn't hurt to 
-	do this on debug servers so if in doubt, just do it.)
+found in "cache/templates.cli" and "cache/templates.web". (It doesn't hurt to 
+do this on debug servers so if in doubt, just do it.)
 
 ## Minimising downtime when upgrading - Database upgrades
 
