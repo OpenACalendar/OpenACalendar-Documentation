@@ -1,6 +1,6 @@
-install
-install.singlesite
-install.multisite
-cron
-upgrading
-extensions
+install \ Install Guide \ 
+install.singlesite \ Install Guide for Single Site Mode \ 
+install.multisite \ Install Guide for Multi Site Mode \
+cron \ Installing regular cron jobs \
+upgrading \ \ 
+extensions  \  \ 

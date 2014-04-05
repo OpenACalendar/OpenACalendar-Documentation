@@ -1,3 +1,3 @@
-core Core App
-extension.AddressCodeGBOpenCodePoint Extension for GB Postcodes
+core \ Core App \ Core App
+extension.AddressCodeGBOpenCodePoint \ Extension AddressCodeGBOpenCodePoint \ Extension for GB Postcodes
 
