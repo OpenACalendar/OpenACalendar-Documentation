@@ -1,0 +1,5 @@
+contribute \ How you can add events to the calendar
+watch \ Users can "watch" to receive alerts
+personalcalendar \ Each user can have their personal calendar
+recur \ Events that recur
+import \ Importing events from other sources
