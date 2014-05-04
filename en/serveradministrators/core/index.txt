@@ -4,3 +4,4 @@ install.multisite \ Install Guide for Multi Site Mode \
 cron \ Installing regular cron jobs \
 upgrading \ \ 
 extensions  \  \ 
+sendspecifiedemail \ \
