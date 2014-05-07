@@ -366,7 +366,7 @@ This should be a Quota level you have already set up in the sys admin interface.
 
 All assets (CSS, Images, Js, etc) have this appended to the URL. You can tell 
 browsers to cache all assets, and increment this when you update assets to make 
-sure browsers get the latest ones.
+sure browsers get the latest ones. See [the upgrading guide](/en/systemadministrators/core/upgrading.md) for more.
 
 
 ### eventsCantBeMoreThanYearsInFuture

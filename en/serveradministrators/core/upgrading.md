@@ -14,6 +14,18 @@ On servers not in Debug mode, delete the existing cached templates. These are
 found in "cache/templates.cli" and "cache/templates.web". (It doesn't hurt to 
 do this on debug servers so if in doubt, just do it.)
 
+## Assets Version and Browser Caching
+
+There are Apache config files includud in the software that turn on browser caching 
+for assets, such as images, CSS and JS. This should help speed up subsequent page loads for users. 
+
+However when you update, you must make sure users get the latest version of all assets. Do this using the config variable.
+
+    $CONFIG->assetsVersion = 1
+
+This is appended to the end of all requests. Set this to 1 on a new install and increase the value by 1 
+every time you upgrade.
+
 ## Minimising downtime when upgrading - Database upgrades
 
 Following the upgrade procedure above means that there is a small period of time during which
