@@ -18,5 +18,5 @@ to get it working on Windows servers.)
 first](/en/systemadministrators/core/singlesiteormultisite.md) and choose).
 
 See seperate instructions for [Single Site](/en/serveradministrators/core/install.singlesite.md) 
-or [Multi Site](/en/serveradministrators/core/singlesiteormultisite.multisite.md).
+or [Multi Site](/en/serveradministrators/core/install.multisite.md).
 
