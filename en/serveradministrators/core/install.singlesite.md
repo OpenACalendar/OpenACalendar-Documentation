@@ -8,14 +8,14 @@ Set up a Postgres database.
 
 Copy config.dist.php to config.php and and edit it.
 
-Run the PHP script "extension.Core/cli/upgradeDatabase.php".
+Run the PHP script "core/cli/upgradeDatabase.php".
 
-Run the PHP script "extension.Core/cli/loadStaticData.php".
+Run the PHP script "core/cli/loadStaticData.php".
 
-Run the PHP script "extension.Core/cli/createUser.php USERNAME EMAIL PASSWORD sysadmin" 
+Run the PHP script "core/cli/createUser.php USERNAME EMAIL PASSWORD sysadmin" 
 to create your first user.
 
-Run the PHP script "extension.Core/cli/createSite.php SLUG EMAIL" where slug is something 
+Run the PHP script "core/cli/createSite.php SLUG EMAIL" where slug is something 
 like "site". (If the site will always be used in Single Site mode the slug does not matter.)
 
 The folder "webSingleSite" must be served by the webserver. Enable SSL if possible. 

@@ -6,14 +6,14 @@ Set up a Postgres database.
 
 Copy config.dist.php to config.php and edit it.
 
-Run the PHP script "extension.Core/cli/upgradeDatabase.php".
+Run the PHP script "core/cli/upgradeDatabase.php".
 
-Run the PHP script "extension.Core/cli/loadStaticData.php".
+Run the PHP script "core/cli/loadStaticData.php".
 
-Run the PHP script "extension.Core/cli/createUser.php USERNAME EMAIL PASSWORD sysadmin" 
+Run the PHP script "core/cli/createUser.php USERNAME EMAIL PASSWORD sysadmin" 
 to create your first user.
 
-Create the demo calendar. Run the PHP script "extension.Core/cli/createSite.php SLUG EMAIL" 
+Create the demo calendar. Run the PHP script "core/cli/createSite.php SLUG EMAIL" 
 where slug was set in your config.
 
 The folder "webIndex" must be served by the webserver, on a single name (eg "www.example.com"). 

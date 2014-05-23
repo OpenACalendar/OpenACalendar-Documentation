@@ -35,7 +35,7 @@ This can be avoided. Database changes are designed to be additions that can be u
 
 Check out the new code into a seperate folder. Give this folder the same config.php and extensions as your normal web app.
 
-Then run the PHP scripts "php extension.Core/cli/upgradeDatabase.php" and "php extension.Core/cli/loadStaticData.php" 
+Then run the PHP scripts "php core/cli/upgradeDatabase.php" and "php core/cli/loadStaticData.php" 
 from this seperate folder.
 
 Now update the code in your normal web app. The new DB structure will be in place already; thus minimising downtime.
