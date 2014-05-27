@@ -16,7 +16,7 @@ do this on debug servers so if in doubt, just do it.)
 
 ## Assets Version and Browser Caching
 
-There are Apache config files includud in the software that turn on browser caching 
+There are Apache config files included in the software that turn on browser caching 
 for assets, such as images, CSS and JS. This should help speed up subsequent page loads for users. 
 
 However when you update, you must make sure users get the latest version of all assets. Do this using the config variable.
