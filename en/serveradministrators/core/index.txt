@@ -5,3 +5,5 @@ cron \ Installing regular cron jobs \
 upgrading \ \ 
 extensions  \  \ 
 sendspecifiedemail \ \
+cliapi1.intro \ CLI API V1 - Intro
+cliapi1.event.create \ CLI API V1 - Create an Event
