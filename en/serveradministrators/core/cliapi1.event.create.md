@@ -8,11 +8,11 @@ Available since V1.1.5
 
 Call core/cliapi1/createEvent.php
 
-## Paramaters - JSON
+## Parameters - JSON
 
 Pipe in JSON as Standard input.
 
-## Paramaters - JSON - Event Object
+## Parameters - JSON - Event Object
 
 Pass as "event" variable.
 
@@ -29,7 +29,7 @@ The date time object used for start and end should have one of the following:
 
   *  str - A string representation. This should be very clear; we recommend "YYYY-MM-DD HH:MM:SS" eg "2014-07-01 10:00:00".
 
-## Paramaters - JSON - Site Object
+## Parameters - JSON - Site Object
 
 Pass as "site" variable.
 
@@ -38,7 +38,7 @@ Pass one of:
   *  id - look up in Sysadmin interface.
   *  slug - eg http://demo.hasacalendar.co.uk/ has slug "demo"
 
-## Paramaters - JSON - User Object
+## Parameters - JSON - User Object
 
 Pass as "user" variable.
 
@@ -47,7 +47,7 @@ Pass one of:
   *  username
   *  email
 
-## Paramaters - JSON - Group Object
+## Parameters - JSON - Group Object
 
 Pass as "group" variable.
 
@@ -56,7 +56,7 @@ Pass one of:
   *  id - look up in Sysadmin interface.
   *  slug - eg http://demo.hasacalendar.co.uk/group/2-edinburgh-cat-walkers-group has slug "2"
 
-## Paramaters - JSON - Example
+## Parameters - JSON - Example
 
     {
         "event":{
