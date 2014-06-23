@@ -58,27 +58,25 @@ Pass one of:
 
 ## Paramaters - JSON - Example
 
-''''
-{
-	"event":{
-		"summary":"Test",
-		"start":{
-			"str":"2014-08-01 12:00:00"
-		},
-		"end":{
-			"str":"2014-08-01 12:00:00"
-		}
-	},
-	"site":{
-		"slug":"test1"
-	},
-	"group":{
-		"slug":"1"
-	},
-	"user":{	
-		"email":"james@example.co.uk"
-	}
-}
-''''
+    {
+        "event":{
+            "summary":"Test",
+            "start":{
+                "str":"2014-08-01 12:00:00"
+            },
+            "end":{
+                "str":"2014-08-01 12:00:00"
+            }
+        },
+        "site":{
+            "slug":"test1"
+        },
+        "group":{
+            "slug":"1"
+        },
+        "user":{	
+            "email":"james@example.co.uk"
+        }
+    }
 
 
