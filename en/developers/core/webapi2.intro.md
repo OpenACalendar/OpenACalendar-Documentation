@@ -45,3 +45,6 @@ HTTPS should be used if possible. If the site doesn't have SSL installed then th
 Passing variables can be GET or POST.
 
 At the moment, all responses are JSON as denoted by .json at the end of URLS. We may add .xml and where applicable, .atom, .rss or .ical/.ics later. We may also provide URLs with nothing at the end, in which case the server will use the Accept header to decide what to send back.
+
+A sys admin or app owner will be able to regenerate all user_token and user_secret for that app. This won't change any permissions users has granted, but will mean that all installs of the app have to re-authenticate.
+
