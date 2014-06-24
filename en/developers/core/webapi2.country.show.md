@@ -5,3 +5,5 @@ Call:
 
 xx is the two character country code - eg GB
 
+Authentication [with app and user](/en/developers/core/webapi2.callauthentication.md) is required.
+

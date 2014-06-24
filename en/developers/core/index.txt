@@ -1,5 +1,6 @@
 webapi2.intro \ Web API 2 - Introduction
 webapi2.userauthentication \ Web API 2 - User Authentication Workflow
+webapi2.callauthentication \ Web API 2 - Authentication when calling API
 webapi2.checkcurrentuser \ Web API 2 - Check Current User
 webapi2.country.list \ Web API 2 - List Countries
 webapi2.country.show \ Web API 2 - Show Country

@@ -3,11 +3,7 @@
 Call:
   *  GET or POST request /api2/current_user.json
 
-Pass
-
- * app_token
- * user_token
- * user_secret
+Authentication [with app and user](/en/developers/core/webapi2.callauthentication.md) is required.
 
 Get back
 
