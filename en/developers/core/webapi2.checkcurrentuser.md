@@ -1,7 +1,7 @@
-# Web API 2 - User Authentication Workflow
+# Web API 2 - Check current user
 
-
-Call /api2/current_user.json
+Call:
+  *  GET or POST request /api2/current_user.json
 
 Pass
 
