@@ -1,5 +1,7 @@
 # Web API 2 - List Countries
 
+_Note the current version of this API is still in progress, and some details may change_
+
 Call:
   *  GET request for /api2/country/list.json
 

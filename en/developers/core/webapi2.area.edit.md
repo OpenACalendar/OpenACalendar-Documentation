@@ -1,5 +1,7 @@
 # Web API 2 - Edit Area
 
+_Note the current version of this API is still in progress, and some details may change_
+
 Call:
   *  POST request to /api2/area/xx/info.json
 

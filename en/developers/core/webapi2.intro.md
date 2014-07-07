@@ -1,5 +1,7 @@
 # Web API 2 - Introduction
 
+_Note the current version of this API is still in progress, and some details may change_
+
 ## Introduction
 
 Web API2 is a writeable API with user authentication by an OAuth like procedure.
