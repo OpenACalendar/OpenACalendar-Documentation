@@ -449,31 +449,20 @@ sure browsers get the latest ones. See [the upgrading guide](/en/systemadministr
 
 
 
-### sponsor1MightExist
-
-
-
-### sponsor1Text
-
-
-
-### sponsor1Html
-
-
-
-### sponsor1Link
-
-
-
-### sponsor1Image
-
-
-
 ### apiExtraHeader1Html
 
-
+When HTML is sent from the API, extra content can be added. Use for links to surveys, etc.
 
 ### apiExtraHeader1Text
 
+When Text is sent from the API, extra content can be added. Use for links to surveys, etc.
 
+
+### apiExtraFooter1Html
+
+When HTML is sent from the API, extra content can be added. Use for links to sponsors, etc.
+
+### apiExtraFooter1Text
+
+When Text is sent from the API, extra content can be added. Use for links to sponsors, etc.
 
