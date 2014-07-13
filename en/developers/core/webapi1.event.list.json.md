@@ -1,5 +1,8 @@
 # Web API 1 - List Events in JSON and JSONP format
 
+## Parameters
+
+  *  includeMedias - boolean "true" or "false", optional, false by default. Whether to include medias attached to the event.
 
 ## JSON End Points
 
