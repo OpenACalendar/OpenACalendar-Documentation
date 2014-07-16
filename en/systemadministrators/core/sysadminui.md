@@ -3,14 +3,11 @@
 
 ## Accessing in Single Site Mode
 
+Go to "/sysadmin".
+
 Note some calendar functions are accessed by going to "/admin". Here you can 
 set other users up to be a calendar admin. This is different from being a 
 real systems administrator.
-
-Go to "/sysadmin".
-
-Note in this mode you still have to select which site (ie Calendar) you want to work with, 
-even thought there is only one.
 
 ## Accessing in Multi Site Mode
 
