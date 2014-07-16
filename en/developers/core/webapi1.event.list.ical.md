@@ -3,6 +3,8 @@
 
 ## End Points
 
+In Multi Site mode, these end points are accesed on the Site pages:
+
   *  /api1/events.ical
   *  /api1/group/{slug}/events.ical
   *  /api1/tag/{slug}/events.ical

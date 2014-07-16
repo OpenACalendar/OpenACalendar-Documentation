@@ -6,4 +6,6 @@ Subscribe to this in a app on your phone to be notified of any edits, for instan
 
 ## End Points
 
+In Multi Site mode, this end point is accesed on the Site pages:
+
   *  /api1/histories.atom

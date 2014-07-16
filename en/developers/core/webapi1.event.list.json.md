@@ -6,6 +6,8 @@
 
 ## JSON End Points
 
+In Multi Site mode, these end points are accesed on the Site pages:
+
   *  /api1/events.json
   *  /api1/group/{slug}/events.json
   *  /api1/tag/{slug}/events.json
