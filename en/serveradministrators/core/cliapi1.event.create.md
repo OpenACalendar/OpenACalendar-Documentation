@@ -2,7 +2,9 @@
 
 ## Since
 
-Available since V1.1.5
+Available since V1.2.2
+
+Earlier versions had a bug that created bad data and should not be used.
 
 ## Script
 
@@ -24,11 +26,19 @@ Include:
   *  url
   *  start - A datetime object
   *  end - A datetime object
-
+  
 The date time object used for start and end should have one of the following:
 
   *  str - A string representation. This should be very clear; we recommend "YYYY-MM-DD HH:MM:SS" eg "2014-07-01 10:00:00".
 
+## Parameters - JSON - Country Object
+
+Pass as "country" variable.
+
+Pass one of:
+
+  *  code - 2 character country code; eg "GB" or "DE"
+  
 ## Parameters - JSON - Site Object
 
 Pass as "site" variable.
@@ -66,7 +76,11 @@ Pass one of:
             },
             "end":{
                 "str":"2014-08-01 12:00:00"
-            }
+            },
+            "country":{
+                "code":"DE"
+            },
+            "timezone":"Europe/Berlin"
         },
         "site":{
             "slug":"test1"
