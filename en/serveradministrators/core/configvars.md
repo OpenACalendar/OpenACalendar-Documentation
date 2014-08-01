@@ -466,3 +466,8 @@ When HTML is sent from the API, extra content can be added. Use for links to spo
 
 When Text is sent from the API, extra content can be added. Use for links to sponsors, etc.
 
+### canCreateSitesVerifiedEditorUsers
+
+Since v1.2.2. Can verified users create sites from the web index pages. Boolean.
+
+
