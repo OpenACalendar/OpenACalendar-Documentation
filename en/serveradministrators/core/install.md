@@ -4,6 +4,8 @@
 
 
   *  PHP 5.4+
+  *  PHP Extension - CURL for importing events
+  *  PHP Extension - GD for image manipulation
   *  Postgresql
   *  Apache with ModRewrite (or equivalent)
   *  Command line access
