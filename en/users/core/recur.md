@@ -25,9 +25,11 @@ Double check the dates and submit the form to create the events.
 Note that events will not be on this list if they already exist, to prevent you 
 creating 2 events at the same time.
 
-Note events are only created several months into the future. This is deliberate; by 
-making a contributor come back regularly we have confirmation that the event is still going. 
-Warnings are sent to people who watch the group when events are about to run out.
+Note events are only created several months into the future. This is deliberate:
+
+  *  by making a contributor come back regularly we have confirmation that the event is still going. Warnings are sent to people who watch the group when events are about to run out.
+  *  by making a contributor check dates as they create them we can catch special cases. If the last tuesday of the month happens to be Dec 31st then the regular event probably isn't on that evening and a contributor can spot that.
+
 
 
 You can come back and create more events regularly. Simply find the latest 
