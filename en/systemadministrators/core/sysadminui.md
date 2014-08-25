@@ -11,7 +11,9 @@ real systems administrator.
 
 ## Accessing in Multi Site Mode
 
-Go to the site domain configured for the "webSysAdmin" folder.
+Go to the site domain configured for the "webIndex" folder.
+
+Go to "/sysadmin".
 
 ## Security
 
