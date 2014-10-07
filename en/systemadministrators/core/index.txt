@@ -1,3 +1,5 @@
 singlesiteormultisite \ Single Site Mode and Multi Site Mode
 sysadminui \ The system administrator web UI
-
+finding.slug \ Finding the Slug of data
+mark.duplicate \ Mark Duplicate Data 
+purge \ Purge Data
