@@ -16,7 +16,10 @@ webapi2.area.show \ Web API 2 - Show Area
 webapi2.area.edit \ Web API 2 - Edit Area
 webapi2.venue.list \ Web API 2 - List Venues
 webapi2.venue.show \ Web API 2 - Show Venue
+webapi2.venue.edit \ Web API 2 - Edit Venue
 webapi2.group.list \ Web API 2 - List Groups
 webapi2.group.show \ Web API 2 - Show Group
+webapi2.group.edit \ Web API 2 - Edit Group
 webapi2.event.list \ Web API 2 - List Events
 webapi2.event.show \ Web API 2 - Show Event
+webapi2.event.edit \ Web API 2 - Edit Event
