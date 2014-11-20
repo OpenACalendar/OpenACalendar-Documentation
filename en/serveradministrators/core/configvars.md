@@ -470,4 +470,10 @@ When Text is sent from the API, extra content can be added. Use for links to spo
 
 Since v1.2.2. Can verified users create sites from the web index pages. Boolean.
 
+### userNameReserved
+
+Since v1.3.5. An array of usernames that other users are not allowed to sign up for.
+
+    $CONFIG->userNameReserved = array('admin','superadmin');
+
 
