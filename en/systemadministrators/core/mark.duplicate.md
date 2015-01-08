@@ -10,5 +10,5 @@ For instance, if you mark one venue as a duplicate of another, any events at tha
 
 Browse the System Administors user interface.
 
-Find the bit of data you want to mark as a duplicate and enter the command "isduplicateof slug", where slug is the slug of the original bit of data. This is the number that appears in the URL.
+Find the bit of data you want to mark as a duplicate and enter the command "isduplicateof slug", where slug is the slug of the original bit of data.
 

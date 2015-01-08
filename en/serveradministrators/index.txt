@@ -1,4 +1,6 @@
 core \ Core App \ Core App
+extension.CuratedLists \ Extension CuratedLists \ Extension for Curated Lists 
 extension.AddressCodeGBOpenCodePoint \ Extension AddressCodeGBOpenCodePoint \ Extension for GB Postcodes
 extension.Facebook \ Extension Facebook \ Extension for Facebook 
 extension.Meetup \ Extension Meetup \ Extension for Meetup
+extension.DisplayBoard \ Extension Display Board \ Extension for Display Board

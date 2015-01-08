@@ -20,7 +20,7 @@ Browse the System Administors user interface.
 
 Find the bit of data you want to purge and enter the command "purge password".
 
-The password is set by your server administrator. There is no default value and the feature will not work if a password has not been set.
+The password is set by your server administrator. There is no default value and the feature will not work if a password has not been set. Note different passwords can be set for different types of data for extra security.
 
 It is recommended this password is different from any other passwords - an attacker who hacks into your server administrator UI (maybe by sniffing passwords) is bad enought, an attacker who hacks into your server administrator UI and also knows the password to purge data is really bad.
 
