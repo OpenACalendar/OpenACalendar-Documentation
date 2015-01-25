@@ -4,3 +4,4 @@ extension.AddressCodeGBOpenCodePoint \ Extension AddressCodeGBOpenCodePoint \ Ex
 extension.Facebook \ Extension Facebook \ Extension for Facebook 
 extension.Meetup \ Extension Meetup \ Extension for Meetup
 extension.DisplayBoard \ Extension Display Board \ Extension for Display Board
+extension.Contact \ Extension Contact \ Extension for Contact Methods
