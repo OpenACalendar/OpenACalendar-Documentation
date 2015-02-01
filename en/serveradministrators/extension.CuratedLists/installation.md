@@ -2,7 +2,7 @@
 
 This extension MUST be installed currently.
 
-Historically, this was part of the Core software and was moved out to it's own extension later. Some parts of the Core software still reference this extension and may cause errors is this extension is not installed.
+Historically, this was part of the Core software and was moved out to it's own extension for version v1.4.0. Some parts of the Core software still reference this extension and may cause errors is this extension is not installed.
 
 ## Installation
 

@@ -1,5 +1,13 @@
 # Upgrading
 
+## Upgrade notes from before v1.4.0
+
+At version v1.4.0, 2 bits of code which used to be in core were split out into seperate modules, "Contact" and "CuratedLists". 
+
+"CuratedLists" currently must be enabled and added to your config.
+
+"Contact" should be enabled and added to your config if you want to use it, but can be left if not.
+
 ## Upgrade procedure
 
 We recommend you take a full backup of the database and files before upgrading.

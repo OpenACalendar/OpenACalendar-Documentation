@@ -4,6 +4,8 @@
 
 Get the code and place on a web server.
 
+(If downloading the code as a release from the website, it is complete. If downloading as source code or from Git, you will need to use composer to install libraries. Run "composer install" in the root directory. https://getcomposer.org/ )
+
 Set up a Postgres database.
 
 Copy config.dist.php to config.php and and edit it.
