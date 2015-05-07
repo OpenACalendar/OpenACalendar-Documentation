@@ -102,7 +102,7 @@ Array. These are other domains that the site will recognise and redirect to.
 ### webCommonSessionDomain
 
 
-This is the session for the cookie. In single site mode, just set the same domain. 
+This is the session for the cookie. In single site mode, just set the same domain.
 In multi site mode, it needs to go across all domains so set a common parent.
 
 
@@ -180,7 +180,7 @@ This is the address that is show on the web page. You may wish to do something s
 ### ourBlog
 
 
-	
+
 ## Media
 
 Media is uploaded pictures.
@@ -226,7 +226,7 @@ Number.
 
 Number. For sites in multi site mode, they can specify that a piece of media is their logo. How long to cache it?
 
-	
+
 ## Security and Antispam
 
 ### allowNewUsersToRegister
@@ -240,7 +240,7 @@ Boolean.
 
 Boolean.
 
-	
+
 ### bcryptRounds
 
 
@@ -265,7 +265,7 @@ Boolean.
 ### sysAdminExtraPassword
 
 
-Sys admin users have to enter an extra password to access the sys admin interface. 
+Sys admin users have to enter an extra password to access the sys admin interface.
 Set here as a plain text string.
 
 
@@ -295,7 +295,7 @@ Number.
 
 
 
-	
+
 ## New Sites
 
 When you create a site, what features are on by default? Most of these can be changed later in calendar admin.
@@ -347,8 +347,8 @@ Number
 
 This should be a Quota level you have already set up in the sys admin interface. "BASIC" is configured by default.
 
-	
-	
+
+
 ## Misc
 
 ### cacheFeedsInSeconds
@@ -364,8 +364,8 @@ This should be a Quota level you have already set up in the sys admin interface.
 ### assetsVersion
 
 
-All assets (CSS, Images, Js, etc) have this appended to the URL. You can tell 
-browsers to cache all assets, and increment this when you update assets to make 
+All assets (CSS, Images, Js, etc) have this appended to the URL. You can tell
+browsers to cache all assets, and increment this when you update assets to make
 sure browsers get the latest ones. See [the upgrading guide](/en/systemadministrators/core/upgrading.md) for more.
 
 
@@ -477,3 +477,12 @@ Since v1.3.5. An array of usernames that other users are not allowed to sign up 
     $CONFIG->userNameReserved = array('admin','superadmin');
 
 
+
+
+### findDuplicateEventsShow
+
+
+### findDuplicateEventsThreshhold
+
+
+### findDuplicateEventsNoMatchSummary
